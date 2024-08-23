@@ -1,2 +1,1 @@
-export { default } from './CustomerPage';
-
+export { default } from "./CustomerPage";
