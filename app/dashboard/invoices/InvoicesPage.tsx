@@ -12,7 +12,6 @@ export default async function InvoicesPage({
   searchParams?: {
     query?: string;
     page?: string;
-    isEditing?: string;
   };
 }) {
   const query = searchParams?.query || "";
